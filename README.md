@@ -14,7 +14,7 @@ All libraries are avilable in Anaconda distribution of Python.  The code should 
 
 ## Project Motivation<a name="motivation"></a>
 
-I will analyse a dataset to see how data analysis can help us to get insights from the data. The project uses one of the famous opened datasets in the internet which is AirBnb dataset([Boston AirBnb](https://www.kaggle.com/airbnb/boston/) and [Seattle AirBnb](https://www.kaggle.com/airbnb/seattle/data) datasets).
+I will analyse a dataset to see how data analysis can help us to get insights from the data. The project uses one of the famous opened datasets in the internet which is AirBnb dataset ([Boston AirBnb](https://www.kaggle.com/airbnb/boston/) and [Seattle AirBnb](https://www.kaggle.com/airbnb/seattle/data) datasets).
 
 Here, I will try to answer four questions which are:
 
